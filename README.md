@@ -10,6 +10,6 @@
   - https://github.com/JoonaR99/QR-lukija_ja_Otto-automaatin-loytaja
 
 - <b>EJS</b>
-  - 
+  - https://github.com/JoonaR99/JSON-lukija
 
 
