@@ -14,5 +14,5 @@
   - https://github.com/JoonaR99/EJS_ja_datan_tulostus_tietokannasta
 
 - <b>React</b>
-  -https://github.com/JoonaR99/Postimerkki-haku
+  - https://github.com/JoonaR99/Postimerkki-haku
 
