@@ -1,6 +1,6 @@
 <h1>Moi, olen Joona!</h1>
 
-<h2>👨‍💻 It-tradenomi - Sovelluskehittjä, opiskelija</h2>
+<h2>👨‍💻 It-tradenomi - Sovelluskehittjä</h2>
 
 <h3>Projekteja joita olen tehnyt</h3>
 
